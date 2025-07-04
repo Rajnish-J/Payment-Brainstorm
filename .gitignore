@@ -1,0 +1,3 @@
+.env
+GRPC/GRPC-python/.venv/
+GRPC/GRPC-python/__pycache__/
